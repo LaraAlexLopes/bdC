@@ -1,0 +1,7 @@
+{
+  "cargo": [
+    {"id":"1","cargo": "Vendedor"},
+    {"id":"2","cargo": "Supervisor"},
+    {"id":"3","cargo": "Gerente"}
+     ]
+}
