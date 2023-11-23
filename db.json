@@ -34,9 +34,9 @@
     {"id": "27", "nome": "Tocantins"}
   ],
   "estoque": [
-    {"id":"1","produto": "Colônia Menta e Alecrim", "codigoBarras" : "00000000","quantidade" : "20", "lote" : "0000","validade":"03/26" ,"capacidadeMaxima":  "200",  "capacidadeMinima":  "200", "PontoRessuprimento": "400","dataInicial" : "22/06/2003","dataFinal" : "22/06/2004","metaMensal":"R$1000"},
-    {"id":"2","produto": "Perfume Tangerina", "codigoBarras" : "11111111","quantidade" : "30", "lote" : "1111","validade":"04/26" ,"capacidadeMaxima": "100",  "capacidadeMinima":  "150", "PontoRessuprimento": "200","dataInicial" : "24/07/2003","dataFinal" : "24/07/2004","metaMensal":"R$500"},
-    {"id":"3","produto": "Sabonete de Sálvia", "codigoBarras" : "22222222","quantidade" : "40", "lote" : "2222","validade":"05/26" ,"capacidadeMaxima":  "300",  "capacidadeMinima":  "200", "PontoRessuprimento": "500","dataInicial" : "26/08/2003","dataFinal" : "26/08/2004","metaMensal":"R$2000"},
-    {"id":"4","produto": "Perfume Versace", "codigoBarras" : "33333333","quantidade" : "50", "lote" : "3333","validade":"07/26" ,"capacidadeMaxima":  "50",  "capacidadeMinima":  "50", "PontoRessuprimento": "400","dataInicial" : "28/10/2003","dataFinal" : "28/10/2004","metaMensal":"R$250"}
+    {"id":"1","produto": "Colônia Menta e Alecrim", "codigoBarras" : "00000000","quantidade" : "20", "lote" : "0000","validade":"03/26" ,"capacidadeMaxima":  "200",  "capacidadeMinima":  "200", "PontoRessuprimento": "400","dataInicial" : "2023-06-07","dataFinal" : "2023-07-07","metaMensal":"R$1000"},
+    {"id":"2","produto": "Perfume Tangerina", "codigoBarras" : "11111111","quantidade" : "30", "lote" : "1111","validade":"04/26" ,"capacidadeMaxima": "100",  "capacidadeMinima":  "150", "PontoRessuprimento": "200","dataInicial" : "2023-04-09","dataFinal" : "2023-05-10","metaMensal":"R$500"},
+    {"id":"3","produto": "Sabonete de Sálvia", "codigoBarras" : "22222222","quantidade" : "40", "lote" : "2222","validade":"05/26" ,"capacidadeMaxima":  "300",  "capacidadeMinima":  "200", "PontoRessuprimento": "500","dataInicial" : "2023-01-08","dataFinal" : "2023-02-08","metaMensal":"R$2000"},
+    {"id":"4","produto": "Perfume Versace", "codigoBarras" : "33333333","quantidade" : "50", "lote" : "3333","validade":"07/26" ,"capacidadeMaxima":  "50",  "capacidadeMinima":  "50", "PontoRessuprimento": "400","dataInicial" : "2023-06-12","dataFinal" : "2023-07-12","metaMensal":"R$250"}
   ]
 }
